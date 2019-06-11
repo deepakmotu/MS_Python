@@ -75,3 +75,15 @@ DEBUG:root:Divide result is 0.3333333333333333
 2019-06-09 07:46:17,591, DEBUG, Substracting result is -10, 2.9916763305664062, MainProcess,MainThread, 8968
 2019-06-09 07:46:17,591, DEBUG, Multiply result is 75, 2.9916763305664062, MainProcess,MainThread, 8968
 2019-06-09 07:46:17,591, DEBUG, Divide result is 0.3333333333333333, 2.9916763305664062, MainProcess,MainThread, 8968
+2019-06-11 07:36:46,181, DEBUG, Adding Result is {add_result}, 2.991199493408203, MainProcess,MainThread, 4360
+2019-06-11 07:36:46,183, DEBUG, Substracting result is -10, 4.985332489013672, MainProcess,MainThread, 4360
+2019-06-11 07:36:46,183, DEBUG, Multiply result is 75, 4.985332489013672, MainProcess,MainThread, 4360
+2019-06-11 07:36:46,183, DEBUG, Divide result is 0.3333333333333333, 4.985332489013672, MainProcess,MainThread, 4360
+2019-06-11 07:37:00,892, DEBUG, Adding Result is {add_result}, 2.993345260620117, MainProcess,MainThread, 14204
+2019-06-11 07:37:00,893, DEBUG, Substracting result is -10, 3.990650177001953, MainProcess,MainThread, 14204
+2019-06-11 07:37:00,893, DEBUG, Multiply result is 75, 3.990650177001953, MainProcess,MainThread, 14204
+2019-06-11 07:37:00,893, DEBUG, Divide result is 0.3333333333333333, 3.990650177001953, MainProcess,MainThread, 14204
+2019-06-11 07:37:15,279, DEBUG, Adding Result is {add_result}, 2.9916763305664062, MainProcess,MainThread, 3232
+2019-06-11 07:37:15,279, DEBUG, Substracting result is -10, 2.9916763305664062, MainProcess,MainThread, 3232
+2019-06-11 07:37:15,280, DEBUG, Multiply result is 75, 3.988981246948242, MainProcess,MainThread, 3232
+2019-06-11 07:37:15,280, DEBUG, Divide result is 0.3333333333333333, 3.988981246948242, MainProcess,MainThread, 3232
